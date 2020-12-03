@@ -101,6 +101,6 @@ def mongodb_handle(host='localhost', port=27017):
     # 关闭客户端连接
     client.close()
 
-
+#1111
 if __name__ == '__main__':
     mongodb_handle(host='localhost')
